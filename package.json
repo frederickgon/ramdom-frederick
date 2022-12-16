@@ -1,0 +1,27 @@
+{
+  "name": "ramdom-frederick",
+  "version": "1.0.0",
+  "description": "mensajes aleatorios",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/frederickgon/ramdom-frederick.git"
+  },
+  "keywords": [],
+  "author": "fede g @frederickgon",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/frederickgon/ramdom-frederick/issues"
+  },
+  "homepage": "https://github.com/frederickgon/ramdom-frederick#readme",
+  "bin": {
+    "ramdom-frederick": "./bin/global.js"
+  },
+  "preferGlobal": true,
+  "dependencies": {
+    "g": "^2.0.1"
+  }
+}
